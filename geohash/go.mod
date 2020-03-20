@@ -1,3 +1,3 @@
-module github.com/lishimeng/geo/geoconvert
+module github.com/lishimeng/geo/geohash
 
 go 1.14
